@@ -1,0 +1,1 @@
+A code that converts customer name, ID, customer number, city of residence and credit limit to excell file. this code is saved on the desktop in xls format. places to customise and change in the code were written.pandas, openpyxl and random packages must be down for the code to work. made in python version 3.13
